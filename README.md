@@ -1,5 +1,5 @@
 # Habit tracker and Predictor website
-![Uploading image.png…]()
+<img width="338" alt="image" src="https://github.com/user-attachments/assets/e9edb236-49e8-4936-92be-b924a91630c5" />
 
 ## Project info
 
