@@ -1,9 +1,9 @@
 # Habit tracker and Predictor website
+![Uploading image.png…]()
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/79a1a9bb-d1cb-46c1-a8cb-3cb0bfebeaec
-
+**URL**: https://quirky-habits-foundry.lovable.app/
 
 If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in the respository.
 
