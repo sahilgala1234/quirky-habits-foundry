@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# Habit tracker and Predictor website
 
 ## Project info
 
